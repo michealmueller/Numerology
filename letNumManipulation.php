@@ -103,8 +103,8 @@ class LetterToNumber extends getInfo
         	}
         }
 
-        $this -> destinyNum = self::getStartNumber($this -> nameNumberArray);
-        self::vowelConstCount();
+        return $this -> destinyNum = self::getStartNumber($this -> nameNumberArray);
+        //self::vowelConstCount();
 
 
     }
@@ -122,14 +122,14 @@ class LetterToNumber extends getInfo
         //check whether destiny or lifepath is being ran, or both
         $callingFunc = self::debugPrintCallingFunction();
 
-        echo $callingFunc;
+        //echo $callingFunc;
 
         if ($callingFunc === 'lifePath')
         {
 
             $this -> lifePathNum = self::checkNumber($this -> originalNumber);
 
-            parent::Display($this -> destinyNum, $this -> lifePathNum, $this -> VowelConst);
+            //parent::Display($this -> destinyNum, $this -> lifePathNum, $this -> VowelConst);
         }
         elseif($callingFunc === 'convertLetToNum')
         {
@@ -273,7 +273,7 @@ class LetterToNumber extends getInfo
     {
         if (isset($this -> destinyNum) && isset($this -> lifePathNum))
         {
-            parent::Display($this -> destinyNum, $this -> lifePathNum, $this -> VowelConst);
+            //parent::Display($this -> destinyNum, $this -> lifePathNum, $this -> VowelConst);
         }
         else
         {

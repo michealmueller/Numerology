@@ -22,7 +22,7 @@ class getInput extends LetterToNumber
         {
 	        preg_match_all('/([A-Za-z])/', $dirtyName, $nameMatches);
             $this -> nameLetterArray = $nameMatches[0];
-			parent::convertLetToNum($this -> nameLetterArray);
+			return parent::convertLetToNum($this -> nameLetterArray);
         }
         else
         {
@@ -35,7 +35,7 @@ class getInput extends LetterToNumber
     {
         if(empty($birthdate))
         {
-            echo 'You did not enter any information. You will be redirected in 5 seconds.';
+            echo '<html><head><META http-equiv="refresh" content="5;URL=index.php" /></head><body><h2>You did not fill anything in, You will be redirected in 5 seconds.</h2></body></html>';
         }
         else
         {

@@ -11,9 +11,8 @@ require_once 'letNumManipulation.php';
 
 class getInfo
 {
-    function Display($destinyNum, $lifePath, $VowelConst)
+    function Display($destinyNum, $lifePath, $vowels, $constants)
     {
-        echo '<br>' . $destinyNum .'<br>' . $lifePath;
 	    echo '<!DOCTYPE html >
 <html >
  <head >
@@ -43,8 +42,8 @@ class getInfo
 	         <tr class="numbers">
 	            <td>' . $destinyNum .'</td>
 	            <td>' . $lifePath . '</td>
-	            <td>' . $VowelConst[vowel] . '</td>
-	            <td>' . $VowelConst[constants] . '</td>
+	            <td>' . $vowels . '</td>
+	            <td>' . $constants . '</td>
 	         </tr>
 	     </table>
      </div>

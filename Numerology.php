@@ -9,22 +9,37 @@
 
 
 require_once 'getInput.php';
+require_once 'results.php';
+require_once 'letNumManipulation.php';
 
 $numerology = new getInput;
+$results = new getInfo();
+$letmanip = new LetterToNumber();
+
 
 	//input error checking
 	if(!empty($_POST['fullname']) && empty($_POST['birthdate']))
 	{
 		$numerology -> destiny($_POST['fullname']);
+        $destinyNum = $numerology->destinyNum;
+        //$letmanip -> vowelConstCount();
+        //$vowel = $letmanip -> VowelConst['vowel'];
+        //$const = $letmanip -> VowelConst['constants'];
+        $results -> Display($destinyNum,0,0,0);
 	}
 	elseif(empty($_POST['fullname']) && !empty($_POST['birthdate']))
 	{
 		$numerology -> lifepath($_POST['birthdate']);
+        $lifePathNum = $numerology->lifePathNum;
+        $results -> Display(0, $lifePathNum, 0, 0);
 	}
 	elseif(!empty($_POST['fullname']) && !empty($_POST['birthdate']))
 	{
 		$numerology -> destiny($_POST['fullname']);
+        $destinyNum = $numerology -> destinyNum;
 		$numerology -> lifePath($_POST['birthdate']);
+        $lifePathNum = $numerology -> lifePathNum;
+        $results -> Display($destinyNum, $lifePathNum, 0, 0);
 	}
 	else
 	{
