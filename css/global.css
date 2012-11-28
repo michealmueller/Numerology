@@ -1,0 +1,52 @@
+/*CSS*/
+
+table
+{
+	text-align: center;
+}
+
+body
+{
+	background-color: #ffffff;
+}
+
+#header
+{
+	font-size: 45px;
+	text-align: center;
+	width: 950px;
+	color:#000000;
+}
+
+#content
+{
+    margin: 0 auto;
+    width: 950px;
+    height: 500px;
+    padding: 50px 30px 50px 30px;
+    background-color: #BDBDBD;
+}
+
+.shadow
+{
+    -moz-box-shadow: 3px 3px 4px #000;
+    -webkit-box-shadow: 3px 3px 4px #000;
+    box-shadow: 3px 3px 4px #000;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength = 4, Direction = 135, Color = '#000000');
+}
+
+.important
+{
+	background-color:#F5F6CE;
+    text-align: center;
+}
+
+
+.numbers
+{
+    font-size: 20px;
+    font-weight: bold;
+}
