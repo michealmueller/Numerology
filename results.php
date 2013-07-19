@@ -32,12 +32,12 @@ class getInfo
 			     <td>
 		            <p>Life Path Number</p>
 			     </td>
-		         <td>
+		         <!---<td>
 		            <p>Vowel\'s</p>
 		         </td>
 		         <td>
 		            <p>Constant\'s</p>
-		         </td>
+		         </td>-->
 		     </tr>
 	         <tr class="numbers">
 	            <td>' . $destinyNum .'</td>

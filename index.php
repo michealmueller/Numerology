@@ -20,8 +20,14 @@
 						<td>Birth Date:</td>
 						<td><input type="text" name="birthdate" /></td>
 					</tr>
+                    <!--<tr>
+                        <td>
+                            <input type="checkbox" name="VowlY" />
+                        </td>
+                        <td>Check this box if you have a Y in your name and it is a Vowl.</td>
+                    </tr>-->
 					<tr>
-						<td colspan="2"><input type="submit" value="Submit" /></td>
+						<td colspan="4"><input type="submit" value="Submit" /></td>
 					</tr>
 		    	</table>
 			</form>

@@ -10,8 +10,9 @@ class LetterToNumber extends getInfo
 	public $lifePathNum;
 	protected $vowel;
 	protected $constant;
-    public $VowelConst;
+    public $soul;
     protected $nameNumberArray;
+    protected $soulNumber;
 
     function convertLetToNum()
     {
@@ -176,90 +177,28 @@ class LetterToNumber extends getInfo
 
     }
 
-    function vowelConstCount()
+    function soul()
     {
-        $this -> VowelConst[vowel] = 0;
-        $this -> VowelConst[constants] = 0;
-
-        foreach ($this->nameLetterArray as $value)
+        $this-> soulNumber = $this -> nameNumberArray;
+        foreach ($this->soulNumber as $value)
         {
             switch ($value) {
                 case 'a';
                     ++$this ->vowel;
                     break;
-                case 'b';
-                    ++$this->constant;
-                    break;
-                case 'c';
-                    ++$this->constant;
-                    break;
-                case 'd';
-                    ++$this->constant;
-                    break;
                 case 'e';
                     ++$this->vowel;
                     break;
-                case 'f';
-                    ++$this->constant;
-                    break;
-                case 'g';
-                    ++$this->constant;
-                    break;
-                case 'h';
-                    ++$this->constant;
-                    break;
-                case 'i';
+               case 'i';
                     ++$this->vowel;
-                    break;
-                case 'j';
-                    ++$this->constant;
-                    break;
-                case 'k';
-                    ++$this->constant;
-                    break;
-                case 'l';
-                    ++$this->constant;
-                    break;
-                case 'm';
-                    ++$this->constant;
-                    break;
-                case 'n';
-                    ++$this->constant;
                     break;
                 case 'o';
                     ++$this->vowel;
                     break;
-                case 'p';
-                    ++$this->constant;
-                    break;
-                case 'q';
-                    ++$this->constant;
-                    break;
-                case 'r';
-                    ++$this->constant;
-                    break;
-                case 's';
-                    ++$this->constant;
-                    break;
-                case 't';
-                    ++$this->constant;
-                    break;
                 case 'u';
                     ++$this->vowel;
                     break;
-                case 'v';
-                    ++$this->constant;
-                    break;
-                case 'w';
-                    ++$this->constant;
-                    break;
-                case 'x';
-                    ++$this->constant;
-                    break;
                 case 'y';
-                    ++$this->constant;
-                    break;
-                case 'z';
                     ++$this->constant;
                     break;
             }
