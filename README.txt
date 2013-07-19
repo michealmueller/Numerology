@@ -22,6 +22,6 @@ Contact Me
 
 If you have any questions or concerns please feel free to contact me either at
 
-Email: msquared86 (at) gmail.com
-Skype: michealjm86
-WebSite: mmueller86.koding.com/portfolio/
+Email: arthmael86 (at) gmail.com
+Skype: mmueller862010
+WebSite: http://vm-0.mmueller86.kd.io/Numerology/
