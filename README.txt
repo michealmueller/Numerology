@@ -17,6 +17,14 @@ Simply Place the Numerology Folder in you're Web server directory, then point yo
 i.e localhost/Numerology
 
 ===========
+To Be Done
+===========
+
+a)Soul Number
+b)Implement Y as a vowl option.
+c)Better GUI
+
+===========
 Contact Me
 ===========
 
