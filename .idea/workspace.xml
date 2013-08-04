@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98affdce-5b75-4c28-bd6c-2fe8b3359254" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/letNumManipulation.php" afterPath="$PROJECT_DIR$/letNumManipulation.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/results.php" afterPath="$PROJECT_DIR$/results.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Numerology.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="98affdce-5b75-4c28-bd6c-2fe8b3359254" time="1374199365687" ignored="false" />
+    <file path="/Dummy.txt" changelist="98affdce-5b75-4c28-bd6c-2fe8b3359254" time="1375589235038" ignored="false" />
     <file path="/README.txt" changelist="98affdce-5b75-4c28-bd6c-2fe8b3359254" time="1374198966957" ignored="false" />
     <file path="/letNumManipulation.php" changelist="98affdce-5b75-4c28-bd6c-2fe8b3359254" time="1374202633786" ignored="false" />
     <file path="/index.php" changelist="98affdce-5b75-4c28-bd6c-2fe8b3359254" time="1374202733237" ignored="false" />
@@ -40,7 +38,7 @@
       <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="16" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0">
+            <state line="26" column="11" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -49,7 +47,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="44" selection-start="1208" selection-end="1208" vertical-scroll-proportion="-15.692307">
+            <state line="24" column="44" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,12 +56,8 @@
       <file leaf-file-name="letNumManipulation.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/letNumManipulation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="195" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="-16.961538">
-              <folding>
-                <element signature="n#getStartNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-                <element signature="n#checkNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-                <element signature="n#simplifyNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-              </folding>
+            <state line="195" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -71,7 +65,7 @@
       <file leaf-file-name="Numerology.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Numerology.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,7 +74,7 @@
       <file leaf-file-name="redirect.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redirect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +83,7 @@
       <file leaf-file-name="results.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/results.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="25" selection-start="908" selection-end="908" vertical-scroll-proportion="0.6360544">
+            <state line="43" column="42" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.62570465">
               <folding />
             </state>
           </provider>
@@ -98,7 +92,7 @@
       <file leaf-file-name="getInput.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getInput.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="67" selection-start="707" selection-end="707" vertical-scroll-proportion="-18.307692">
+            <state line="28" column="67" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,10 +136,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Unnamed" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="52" />
+    <option name="y" value="24" />
+    <option name="width" value="1868" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -209,25 +203,10 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig" serverName="Web-Local" serverId="2b1d10ef-a4ae-42d3-aec1-8abe02b73c01">
-    <servers>
-      <server id="10cb69c0-d6c7-4e32-b48b-ba9babe6a650">
-        <serverdata />
-      </server>
-      <server id="5fc0b736-1656-4040-b22d-64c260409b55">
-        <serverdata />
-      </server>
-      <server id="baa6a0c4-6b3b-42ba-be2b-666c2d866999">
-        <serverdata />
-      </server>
-      <server id="dd97fcfb-bac7-4df5-89ee-2b403956c49f">
-        <serverdata />
-      </server>
-    </servers>
-  </component>
+  <component name="PublishConfig" serverName="Web-Local" serverId="2b1d10ef-a4ae-42d3-aec1-8abe02b73c01" />
   <component name="RunManager" selected="PHP Web Application.local">
     <configuration default="false" name="letNumManipulation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Numerology.php">
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -299,21 +278,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="52" y="24" width="1868" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.091145836" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09220637" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3869969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1377" y="123" width="791" height="650" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -321,7 +297,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -393,6 +372,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="11" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="44" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letNumManipulation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="195" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="25" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Numerology.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getInput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="67" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -400,7 +428,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="16" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0">
+        <state line="26" column="11" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -421,32 +449,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/getInput.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="67" selection-start="707" selection-end="707" vertical-scroll-proportion="-18.307692">
+        <state line="28" column="67" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letNumManipulation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="-16.961538">
-          <folding>
-            <element signature="n#getStartNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-            <element signature="n#checkNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-            <element signature="n#simplifyNumber#0;n#LetterToNumber#0;n#!!top" expanded="false" />
-          </folding>
+        <state line="195" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="44" selection-start="1208" selection-end="1208" vertical-scroll-proportion="-15.692307">
+        <state line="24" column="44" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="25" selection-start="908" selection-end="908" vertical-scroll-proportion="0.6360544">
+        <state line="43" column="42" selection-start="1033" selection-end="1033" vertical-scroll-proportion="0.62570465">
           <folding />
         </state>
       </provider>

@@ -42,8 +42,6 @@ class getInfo
 	         <tr class="numbers">
 	            <td>' . $destinyNum .'</td>
 	            <td>' . $lifePath . '</td>
-	            <td>' . $vowels . '</td>
-	            <td>' . $constants . '</td>
 	         </tr>
 	     </table>
      </div>
